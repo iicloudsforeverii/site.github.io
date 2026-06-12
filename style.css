@@ -386,11 +386,9 @@ div::selection, h1::selection, h2::selection, h3::selection, h4::selection, h5::
     top: 50%;
     left: 50%;
     z-index: 3;
+    pointer-events: none;
     transform: translate(-50%,-50%);
 }
-/* .displaycontainer > div:hover > .indicator { */
-    /* transform: scale(1.1); */
-/* } */
 
 .displaycontainer > div:hover > img:not(.indicator) {
     z-index: 2;
