@@ -1,1 +1,3 @@
 # site.github.io
+
+Hi, thanks for viewing my portfolio. And.. the source. I'm not buying github plus or smthing so uhh.. just don't copy paste the code ok? It's ass...
