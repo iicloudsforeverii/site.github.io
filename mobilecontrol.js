@@ -202,6 +202,7 @@ async function Update() { // Projects Update
         } else if (image.type == "video") {
             const videoIndicator = document.createElement("img")
             videoIndicator.src = "Assets/videoIndicator.webp"
+            videoIndicator.style.pointerEvents = "none";
             videoIndicator.className = "indicator"
             if (imageContainer.src != "https://img.youtube.com/vi/"+image.src+"/hqdefault.jpg") {
                 imageContainer.src = "https://img.youtube.com/vi/"+image.src+"/hqdefault.jpg";
