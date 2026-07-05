@@ -231,6 +231,11 @@ export default {
             "User": "MewMewMent",
             "Game": "Kittenville",
             "Review": "\"Solid and reliable code, with great attention to detail and clear focus on the task. Working with him sped things up a lot - the project became way more polished and functional.\""
+        },
+        "3": {
+            "User": "Bunny Films",
+            "Youtube": "Bunny Films",
+            "Review": "\"Jack is extremely responsive and delivers commissions in a timely manner. I can request commissions with full confidence that I will receive something exactly as I wanted it. His communication regarding pricing is extremely transparent and he offers reasonable rates. I am very happy to have someone I can rely on for quick and high quality commissions!\""
         }
     }
 };
